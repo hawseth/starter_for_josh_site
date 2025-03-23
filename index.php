@@ -20,7 +20,7 @@
 <div class="row">
 
     <div class="col-md-4">
-<img class="img-fluid" src="http://170.187.231.66/~mesh12/wp-content/themes/Images/port1.jpg" alt="portrait 1">
+<img class="img-fluid" src="http://170.187.231.66/~mesh12/wp-content/themes/images/port1.jpg" alt="portrait 1">
 <h4 class="article-title">A Portrait</h4>
 <p class="date">Friday,November 10. 2030</p>
 <p class="article-p">STS has never been shy of seeking new terrains of  investigation. More and  more  STS s cholars are  starting to explore and intervene in the arts.  This object of study  brings  new challenges and  opportunities that we want  to explore in this session.   We would  like to gather first of all simply  new kinds of  knowledge arising from  STS study  of the arts.</p>
@@ -28,7 +28,7 @@
 </div>
 
     <div class="col-md-4">
-<img class="img-fluid" src="http://170.187.231.66/~mesh12/wp-content/themes/Images/port2.jpg" alt="portrait 2">
+<img class="img-fluid" src="http://170.187.231.66/~mesh12/wp-content/themes/images/port2.jpg" alt="portrait 2">
 <h4 class="article-title">A Portrait</h4>
 <p class="date">Friday,November 10. 2030</p>
 <p class="article-p">STS has never been shy of seeking new terrains of  investigation. More and  more  STS s cholars are  starting to explore and intervene in the arts.  This object of study  brings  new challenges and  opportunities that we want  to explore in this session.   We would  like to gather first of all simply  new kinds of  knowledge arising from  STS study  of the arts.</p>
@@ -36,7 +36,7 @@
 </div>
 
 <div class="col-md-4">
-<img class="img-fluid" src="http://170.187.231.66/~mesh12/wp-content/themes/Images/port3.jpg" alt="portrait 3">
+<img class="img-fluid" src="http://170.187.231.66/~mesh12/wp-content/themes/images/port3.jpg" alt="portrait 3">
 <h4 class="article-title">A Portrait</h4>
 <p class="date">Friday,November 10. 2030</p>
 <p class="article-p">STS has never been shy of seeking new terrains of  investigation. More and  more  STS s cholars are  starting to explore and intervene in the arts.  This object of study  brings  new challenges and  opportunities that we want  to explore in this session.   We would  like to gather first of all simply  new kinds of  knowledge arising from  STS study  of the arts.</p>
